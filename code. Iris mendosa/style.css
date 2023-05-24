@@ -1,0 +1,64 @@
+body{
+    background-color: blueviolet;
+}
+h1{text-align: center;
+   color:gold;}
+
+h2{text-align: center;
+   color: gold;}
+   body {
+    background: purple;
+    text-align:center
+  }
+  p {
+    color: gold;
+  }
+  h1 {
+    font-weight: bold;
+    color: lawngreen
+  }
+  .fat1{ font-size: 40px;font-family: cursive;}
+  h2{
+    color: aqua  
+  }
+  
+  h3{
+     color: aqua
+  }
+  
+  h4{
+    color: aqua
+  }
+  
+  h5{
+    color: aqua    
+  }
+  h6{
+    color: aqua
+  }
+  a { font-size: 20px; border-style: solid; border-color: darkblue; border-width: 2px; padding: 10px; 
+       font-family: Georgia, 'Times New Roman', Times, serif;}
+  
+  img { border: 10px solid lightgoldenrodyellow border-radius 20px; width:350px; }
+  
+  #app {
+    background-color: rgb(51, 255, 0);
+}
+
+#myCarousel
+{
+    background-color: rgb(255, 1, 200);
+}
+
+#myCarousel img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p
+{
+    margin-top: 15px;
+    color : rgb(5, 253, 241);
+    font-size: 20px;
+}
